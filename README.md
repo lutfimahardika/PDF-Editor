@@ -1,4 +1,4 @@
-# PDF_Editor
+# PDF-Editor
 ## Dependencies
 ```
 pip install PySide6
