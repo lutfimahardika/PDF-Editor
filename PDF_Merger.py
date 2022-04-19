@@ -1,4 +1,3 @@
-from ctypes import resize
 import sys
 
 from PyPDF2 import PdfFileReader, PdfFileWriter
